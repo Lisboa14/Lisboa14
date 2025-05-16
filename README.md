@@ -18,8 +18,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 📈 Snake eating my contributions:
+<!-- Snake Game -->
 
-![snake gif](https://github.com/Lisboa14/Lisboa14/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/Lisboa14/Lisboa14/output/snake.svg" alt="Snake Game"/>
 
