@@ -12,7 +12,7 @@
   <h3>💻 Tecnologias que eu uso:</h3>
   
   <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,bootstrap,php,java,cs" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,bootstrap,php,java,cs,laravel" alt="tech stack" />
   </div>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
