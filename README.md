@@ -1,26 +1,75 @@
 <div align="center">
-  <h2>🧑🏻‍💻 Rúben Lisboa 🧑🏻‍💻</h2>
-  
-  <div>
-    <a href="https://github.com/Lisboa14">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lisboa14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-    </a>
-  </div>
 
-  <img width="300px" height="300px" src="https://media1.giphy.com/media/h2MouomJFCpMfWVfUj/giphy.gif?cid=ecf05e47epjinukgr19prb2mdkwowb80l0chbt9pcwdnsu7y&rid=giphy.gif&ct=s">
-  
-  <h3>💻 Tecnologias que eu uso:</h3>
-  
-  <div>
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,bootstrap,php,java,cs,laravel" alt="tech stack" />
-  </div>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Backend+Developer;Laravel+%7C+PHP+%7C+Java;Always+Learning+New+Things+🕷️" />
 
-  <!-- Snake Game -->
+---
 
-<img src="https://raw.githubusercontent.com/Lisboa14/Lisboa14/output/snake.svg" alt="Snake Game"/>
+# Rúben Lisboa
+
+<pre>
+Hello, friend.
+</pre>
 
 </div>
 
+---
 
+## 🕷️ About Me
+
+- 🎯 Backend developer focused on building efficient
+- 💡 Experience in web development and internal management systems  
+- 📚 Constant learner of new technologies and best practices
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,css,bootstrap,java,python,c" />
+
+</div>
+
+---
+
+## 🧰 Tools & Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman,mysql,linux,neovim" />
+
+</div>
+
+---
+
+## 📊 Statistics
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Lisboa14&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lisboa14/Lisboa14/output/snake.svg" />
+
+</div>
+
+---
+
+## 🧠 Terminal
+
+```bash
+> whoami
+Rúben Lisboa
+
+> skills --list
+PHP, Laravel, Python, Java
+
+> status
+Building. Learning. Improving.
