@@ -16,8 +16,7 @@ Hello, friend.
 
 ## 🕷️ About Me
 
-- 🎯 Backend developer focused on building efficient
-- 💡 Experience in web development and internal management systems  
+- 🎓 Software Engineering student focused on web development and backend technologies 
 - 📚 Constant learner of new technologies and best practices
 
 ---
